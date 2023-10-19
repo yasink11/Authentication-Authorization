@@ -1,0 +1,10 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .table-container {
+    position: relative;
+    margin-top: -500px; /* İstenilen boşluğu ayarlayın */
+  }
